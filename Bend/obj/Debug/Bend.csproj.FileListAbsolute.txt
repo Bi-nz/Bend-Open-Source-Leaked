@@ -1,0 +1,16 @@
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\bin\Debug\Bend.exe
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\bin\Debug\Bend.pdb
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\bin\Debug\FastColoredTextBox.dll
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\bin\Debug\SpareApi.dll
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.Form1.resources
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.Form2.resources
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.Form3.resources
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.g.resources
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.Main.resources
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.Properties.Resources.resources
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.Settings.resources
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.csproj.GenerateResource.cache
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.csproj.CoreCompileInputs.cache
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.csproj.CopyComplete
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.exe
+C:\Users\Unspirited\Downloads\Bend_Smaller_size\Dumps\Bend\Bend\obj\Debug\Bend.pdb
